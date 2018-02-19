@@ -182,7 +182,7 @@ class DataAnalyses extends Component {
             <FormControl className={classes.formControl}>
               <Typography variant='title' align='center'>
                 Please select the year and month for which you would like to perform an analysis.
-                You can only select years and months for which data is in the database.
+                You can only select years and months for which data is available in the database.
               </Typography>
             </FormControl>
           </Grid>
