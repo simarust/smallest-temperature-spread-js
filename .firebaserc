@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "development": "weather-analyses",
+    "default": "weather-analyses"
+  }
+}
